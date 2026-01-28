@@ -8,7 +8,7 @@
 
 - **🎛️ Controle Total via HTTP**: API REST na porta 8080 para criar, editar e consultar assets.
 - **🏛️ Pillar Generator (HISM)**: Exemplo prático de geração procedural capaz de spawnar 6.000+ instâncias a 60 FPS.
-- **🐍 Python Bridge**: Injete scripts Python arbitrários diretamente no contexto do Editor via API. (pedir para a IA gerar os scripts e inseri-lo manualmente no unreal parece ser mais rapido)
+- **🐍 Python Bridge**: Injete scripts Python arbitrários diretamente no contexto do Editor via API. (pedir para a IA gerar os scripts e inseri-lo manualmente no unreal parece ser mais rapido).
 - **🛡️ Undo/Redo Seguro**: Todas as operações API são transacionadas, permitindo `Ctrl+Z`.
 - **👁️ Blueprint Introspection**: Habilidade de ler variáveis e estruturas de Blueprints e CDOs.
 
