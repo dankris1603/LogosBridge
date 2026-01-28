@@ -1,0 +1,21 @@
+# Visual Studio 2022
+.vs/
+
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# File Extensions to ignore
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.user
+*.opendb
+
+# Python
+__pycache__/
+*.pyc
