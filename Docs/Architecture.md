@@ -64,7 +64,7 @@ O plugin é carregado na fase `PostEngineInit`. Isso garante que o Editor já es
 
 O LogosBridge não reinventa a roda; ele orquestra subsistemas nativos do Unreal:
 
-### A. Python Scripting Bridge
+### A. Python Scripting Bridge (PEDIR PARA A IA GERAR O SCRIPT PYTHON E INSERI-LO MANUALMENTE NA ENGINE PARECE SER MUITO MAIS RAPIDO)
 
 Em vez de escrever interpretadores complexos em C++, usamos o plugin `PythonScriptPlugin` oficial.
 
